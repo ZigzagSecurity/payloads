@@ -1,9 +1,3 @@
-# oqiwdhoqihwdoqiwdoijefoalwioerhfoaiehrg
-# oqiwdhowejfwe ewfo wefwef wef wenoowef ownef qihwdoqiwdoijefoalwioerhfoaiehrg
-# oqiwdhoqihwdoqiwdoijefwelfkjhwoefhowefew fwef wefoalwioerhfoaiehrg
-# oqiwdhoqihwdoqiwkwejhf welkkjfh wlkejflkwej fwdoijefoalwioerhfoaiehrg
-# oqiwdhoqihwdoqiwwewjegfwefdoijefoalwioerhfoaiehrg
-# oqiwdhoqihwdoqiwdoijef wefjwe fwoef wefijwoe  wefwe fwe oalwioerhfoaiehrg
 $pipi = @"
 using System;
 using System.Runtime.InteropServices;
